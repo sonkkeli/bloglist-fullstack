@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5d5fca6747253d006452f24a
+Content-Type: application/json
+
+{
+    "title": "paska blogi55",
+    "author": "sini",
+    "url": "www.google.fi/paskablogi55",
+    "likes": 3
+}

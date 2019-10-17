@@ -1,0 +1,7 @@
+POST http://localhost:3003/api/blogs/5da1eeac4421d6cf7c02cef3/comments
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNvbmtrZWxpIiwiaWQiOiI1ZDY3ZmU0ZWE5MTM1ODc1MjQyZjk2MjAiLCJpYXQiOjE1NjcwOTc3MzZ9.T27jakGqodPPCf6v1TyTCGgLjcNTt0VeQosvbv9KC4Y
+
+{
+  "content": "pieru haisee"
+}

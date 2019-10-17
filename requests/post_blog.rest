@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNvbmtrZWxpIiwiaWQiOiI1ZDY3ZmU0ZWE5MTM1ODc1MjQyZjk2MjAiLCJpYXQiOjE1NjcwOTc3MzZ9.T27jakGqodPPCf6v1TyTCGgLjcNTt0VeQosvbv9KC4Y
+
+{
+    "title": "toinen blogi",
+    "author": "sonkkeli",
+    "url": "www.google.fi/paskablogi7",
+    "likes": 0
+}
